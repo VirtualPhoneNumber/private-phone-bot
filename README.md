@@ -46,5 +46,5 @@ Stay connected with the latest news and updates by joining our Telegram groups:
 - [Free Virtual Numbers](https://t.me/FreeSmsReceiver)
 - [English channel](https://t.me/VirtualNumbersForVerification)
 - [Русскоязычный канал](https://t.me/SmsVerificationService)
-- 
+
 Embrace the future of digital communication and privacy with [PrivatePhoneBot](https://t.me/PrivatePhoneBot). Our comprehensive features are designed to provide you with the ultimate convenience, security, and flexibility. Join us today and experience the difference.
