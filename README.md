@@ -1,4 +1,5 @@
-# PrivatePhoneBot: Revolutionizing Digital Privacy and Communication
+# privatephone.me
+PrivatePhoneBot: Revolutionizing Digital Privacy and Communication
 
 Welcome to the future of online privacy and seamless communication with [PrivatePhoneBot](https://t.me/PrivatePhoneBot), your ultimate solution for managing virtual numbers directly within Telegram. Say goodbye to the hassle of physical SIMs and embrace a world of convenience and security.
 
